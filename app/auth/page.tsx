@@ -6,9 +6,9 @@ import React from "react";
 const Auth = () => {
   return (
     <div>
-      <h1>Authentication</h1>
+      {/* <h1>Authentication</h1>
       <SignUp />
-      <SignIn />
+      <SignIn /> */}
     </div>
   );
 };

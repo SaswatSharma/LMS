@@ -1,4 +1,5 @@
 // lib/withAuth.js
+"use client";
 import { useRouter } from "next/router";
 import { useEffect } from "react";
 import { auth } from "./firebaseConfig";
